@@ -10,3 +10,4 @@ Commit chez jayz branch -- 2 test hook:D
 Commit chez jayz branch -- 3Z test hook:D
 
 Try to fix the hook bug
+Bug should be fixed now!
