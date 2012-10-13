@@ -8,3 +8,5 @@ Me too :D
 Commit chez jayz branch :D
 Commit chez jayz branch -- 2 test hook:D
 Commit chez jayz branch -- 3Z test hook:D
+
+Try to fix the hook bug
